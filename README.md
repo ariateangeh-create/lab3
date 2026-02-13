@@ -10,7 +10,7 @@ This project is a personal portfolio website that showcases my background, skill
 <img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/5ff6b00f-b252-4302-acdf-1f763615c14d" />
 
 ### 📄 About Page
-<img width="1731" height="639" alt="image" src="https://github.com/user-attachments/assets/4ece90a2-f346-4010-9c48-83f74bdd3e5f" />
+<img width="1919" height="918" alt="image" src="https://github.com/user-attachments/assets/66c3f9ac-c58e-43fa-9a4d-1d16fafeef4d" />
 
 ### 📄 Details Page
 <img width="1920" height="917" alt="image" src="https://github.com/user-attachments/assets/7e9c33bf-9d05-4f9e-8763-951693fed3e8" />
